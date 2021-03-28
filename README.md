@@ -1,6 +1,3 @@
-# Monkey-Ball-HD-Simple-LoadRemover
-A really simple asl script to pause the timer during a load
-
 ## Setup
 
 Load Livesplit and go to Edit Layout
@@ -27,7 +24,7 @@ Livesplit needs to be running in Administrator mode to work as it needs to locat
 
 It is preffered to open the game Before you run Livesplit
 
-Credits:
+## Credits:
 
 Ellie (Elisiah): Load Remover Code and Fix for autosplitter splitting too much / at the wrong state
 
